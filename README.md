@@ -208,6 +208,7 @@
   * [cravendb](https://github.com/robashton/cravendb)
   * [Monger](http://clojuremongodb.info/): for MongoDB
   * [Monglorious](https://baumandm.github.io/monglorious/): for MongoDB
+  * [cmql](https://github.com/tkaryadis/cmql-core): for MongoDB
   * [clj-rethinkdb](https://github.com/apa512/clj-rethinkdb): for RethinkDB
   * [Revise](https://github.com/bitemyapp/revise): for RethinkDB
   * [Spandex](https://github.com/mpenet/spandex): for ElasticSearch
